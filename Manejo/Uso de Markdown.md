@@ -57,6 +57,3 @@ Principales ventajas:
 - Compatible con múltiples conversores: PDF, HTML, DOCX y más.  
 - Ligero, portable y universal en el entorno de desarrollo.
 
----
-
-✏️ *Documento unificado, limpio y continuo, tal como lo pediste.*
