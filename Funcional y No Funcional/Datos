@@ -1,1 +1,11 @@
+Funcionales:
+• Búsqueda del libro por su nombre
+• Identificar el libro prestado por la biblioteca
+• Dar acceso mediante un correo creada solamente para la aplicación
+• Enviar correos al usuario por un préstamo sin devolución
+• Publicación de libros nuevos por parte del administrador de la biblioteca
 
+No funcionales:
+• Identificar al usuario evitando hackeos dentro de la página web
+• El sistema debe estar en óptimas condiciones al momento de su uso
+• Debe ser compatible para diferentes dispositivos no solo para uno
