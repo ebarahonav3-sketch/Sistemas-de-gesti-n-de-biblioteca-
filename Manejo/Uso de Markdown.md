@@ -15,6 +15,21 @@ Markdown se usa porque:
 ---
 
 ## Ejemplo práctico de uso de Markdown
+# Mi Documento en Markdown
+
+## Presentación
+Este es un ejemplo corto escrito en **Markdown**.
+
+## Lista de tareas
+- Estudiar
+- Practicar
+- Descansar
+
+## Enlace
+[Visitar Google](https://www.google.com)
+
+## Código
+`print("Hola")`
 
 ### 📝 Encabezados
 ```markdown
