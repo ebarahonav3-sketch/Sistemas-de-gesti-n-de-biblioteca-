@@ -18,7 +18,7 @@ Markdown se usa porque:
 # Mi Documento en Markdown
 
 ## Presentación
-Este es un ejemplo corto escrito en **Markdown**.
+Ejemplo **Markdown**.
 
 ## Lista de tareas
 - Estudiar
